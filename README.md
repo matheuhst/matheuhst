@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]
+# 👋 Olá, eu sou Matheus
 
 Sou estudante/desenvolvedor com interesse em tecnologia, automação, programação e desenvolvimento de soluções práticas.  
 Tenho foco principalmente em **Python**, mas também estudo e desenvolvo projetos utilizando outras linguagens e tecnologias.
@@ -76,14 +76,12 @@ Descrição breve do projeto, explicando o objetivo, tecnologias utilizadas e o 
 
 ## 📫 Contato
 
-- 📧 Email: [seu-email@email.com]
+- 📧 Email: mmmatheus.fsouza@gmail.com.br
 - 💼 LinkedIn: [seu-linkedin]
 - 🌐 Portfólio: [seu-site-ou-portfolio]
 
 ---
 
-## 💡 Frase
-
-> “A tecnologia é uma ferramenta poderosa para transformar ideias em soluções reais.”
+> “Se existe problema sem solução, eu inventarei a solução.”
 
 ---
