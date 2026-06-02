@@ -77,7 +77,7 @@ Descrição breve do projeto, explicando o objetivo, tecnologias utilizadas e o 
 ## 📫 Contato
 
 - 📧 Email: mmmatheus.fsouza@gmail.com.br
-- 💼 LinkedIn: [seu-linkedin]
+- 💼 LinkedIn: https://www.linkedin.com/in/matheus-de-souza-403917347/
 - 🌐 Portfólio: [seu-site-ou-portfolio]
 
 ---
