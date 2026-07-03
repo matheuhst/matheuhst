@@ -56,18 +56,6 @@ Um site de vendas online de Cafés, com uma Biblioteca e Papelaria. Tudo em um s
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Contato
 
 - 📧 Email: mmmatheus.fsouza@gmail.com.br
