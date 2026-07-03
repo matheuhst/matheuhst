@@ -52,13 +52,7 @@ Tenho foco principalmente em **Python**, mas também estudo e desenvolvo projeto
 Aqui se expõem meus principais projetos:
 
 ### 🔹 <i>Patas&Páginas<i>
-Descrição breve do projeto, explicando o objetivo, tecnologias utilizadas e o problema que ele resolve.
-
-### 🔹 [Nome do Projeto 2]
-Descrição breve do projeto, explicando o objetivo, tecnologias utilizadas e o problema que ele resolve.
-
-### 🔹 [Nome do Projeto 3]
-Descrição breve do projeto, explicando o objetivo, tecnologias utilizadas e o problema que ele resolve.
+Um site de vendas online de Cafés, com uma Biblioteca e Papelaria. Tudo em um só lugar! Desenvolvido principalmente com Django em Python e TypeScript.
 
 ---
 
@@ -78,7 +72,6 @@ Descrição breve do projeto, explicando o objetivo, tecnologias utilizadas e o 
 
 - 📧 Email: mmmatheus.fsouza@gmail.com.br
 - 💼 LinkedIn: https://www.linkedin.com/in/matheus-de-souza-403917347/
-- 🌐 Portfólio: [seu-site-ou-portfolio]
 
 ---
 
