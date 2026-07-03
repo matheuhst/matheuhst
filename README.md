@@ -49,9 +49,9 @@ Tenho foco principalmente em **Python**, mas também estudo e desenvolvo projeto
 
 ## 📂 Projetos em destaque
 
-Aqui futuramente estarão alguns dos meus principais projetos.
+Aqui se expõem meus principais projetos:
 
-### 🔹 [Nome do Projeto 1]
+### 🔹 <i>Patas&Páginas<i>
 Descrição breve do projeto, explicando o objetivo, tecnologias utilizadas e o problema que ele resolve.
 
 ### 🔹 [Nome do Projeto 2]
